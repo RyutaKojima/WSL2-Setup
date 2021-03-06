@@ -6,9 +6,3 @@ echo 'export PATH="$HOME/.anyenv/bin:$PATH"' >> ~/.bashrc
 
 echo 'eval "$(anyenv init -)"' >> ~/.bashrc
 
-
-
-# install anyenv update
-mkdir -p $(anyenv root)/plugins
-git clone https://github.com/znz/anyenv-update.git $(anyenv root)/plugins/anyenv-update
-
