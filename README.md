@@ -1,5 +1,18 @@
 # WSL2-Ubuntu-setup
 
+# Overview
+
+Perform the following setup.
+
+- update package(apt)
+- latest version of git
+- peco
+- ghq
+- anyenv
+  - anyenv-update
+  - nodenv
+  - nodenv-yarn-install
+
 # Usage
 
 ```sh
