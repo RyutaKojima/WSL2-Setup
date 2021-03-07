@@ -17,7 +17,8 @@ sudo apt install peco -y
 sudo apt install golang -y
 
 {
-  echo '"# for go lang'
+  echo ''
+  echo '# for go lang'
   echo 'if [ -x "`which go`" ]; then'
   echo '  export GOPATH=$HOME/go'
   echo '  export PATH="$GOPATH/bin:$PATH"'
