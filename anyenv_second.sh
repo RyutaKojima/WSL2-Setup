@@ -1,3 +1,5 @@
+#!/bin/sh
+
 anyenv install --init
 
 # insatll anyenv-update

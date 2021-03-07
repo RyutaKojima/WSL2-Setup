@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # install nodenv-yarn-install
 # @see https://github.com/pine/nodenv-yarn-install
 mkdir -p "$(nodenv root)/plugins"
